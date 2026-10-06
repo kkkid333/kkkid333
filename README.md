@@ -16,9 +16,3 @@ Pythonで機械学習とエージェントの開発に取り組んでいます�
 - **[PTCG AI Battle Challenge](https://www.kaggle.com/competitions/pokemon-tcg-ai-battle)**：1,673位 / 6,807チーム
 - **[Kaggriculture](https://www.kaggle.com/competitions/kaggriculture)**：暫定832位・銅メダル圏内（2026年10月6日時点）
 - **[RSNA Knee](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection)**：参加中
-
-## 開発と検証
-
-AI支援を活用し、本人による設計判断・レビューと、AIによる実装支援を区別して記録しています。
-
-[GitHub](https://github.com/kkkid333) · [Kaggle](https://www.kaggle.com/kaitoide31)
